@@ -1,0 +1,49 @@
+{
+  "annotations": [
+    {
+      "id": 0,
+      "timestamp_ms": 1617438384372,
+      "warning_id": 2
+    },
+    {
+      "id": 1,
+      "timestamp_ms": 1617438386272,
+      "warning_id": 4
+    },
+    {
+      "id": 2,
+      "timestamp_ms": 1617438390139,
+      "warning_id": 3
+    }
+  ],
+  "warnings": [
+    {
+      "id": 1,
+      "description": "TooManyPersons"
+    },
+    {
+      "id": 2,
+      "description": "PersonsTooSlow"
+    },
+    {
+      "id": 3,
+      "description": "PersonsOutsideZone"
+    },
+    {
+      "id": 4,
+      "description": "PersonsInEachOthersWay"
+    },
+    {
+      "id": 5,
+      "description": "Children"
+    },
+    {
+      "id": 6,
+      "description": "Lying"
+    },
+    {
+      "id": 7,
+      "description": "PersonsOutsideZoneNotSitting"
+    }
+  ]
+}

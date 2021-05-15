@@ -1,0 +1,37 @@
+{
+  "scenes": [
+    {
+      "datetime": "2021-03-29T14:25:59+02:00",
+      "location": "davos_rapid",
+      "label": "emergency",
+      "export_data": [
+        {
+          "start_datetime": "2021-03-29T14:25:29+02:00",
+          "end_datetime": "2021-03-29T14:26:29+02:00",
+          "zed_serial_number": 25718900,
+          "start_frame_number": 10245,
+          "end_frame_number": 10654,
+          "original_file_id": 0
+        },
+        {
+          "start_datetime": "2021-03-29T14:25:29+02:00",
+          "end_datetime": "2021-03-29T14:26:29+02:00",
+          "zed_serial_number": 24388529,
+          "start_frame_number": 10200,
+          "end_frame_number": 10605,
+          "original_file_id": 1
+        }
+      ]
+    }
+  ],
+  "original_files": [
+    {
+      "id": 0,
+      "file_path": "ds20210329_sn25718900_ts120008.svo"
+    },
+    {
+      "id": 1,
+      "file_path": "ds20210329_sn24388529_ts120008.svo"
+    }
+  ]
+}

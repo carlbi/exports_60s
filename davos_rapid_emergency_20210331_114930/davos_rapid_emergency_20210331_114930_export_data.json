@@ -1,0 +1,49 @@
+{
+  "scenes": [
+    {
+      "datetime": "2021-03-31T11:49:30+02:00",
+      "location": "davos_rapid",
+      "label": "emergency",
+      "export_data": [
+        {
+          "start_datetime": "2021-03-31T11:49:00+02:00",
+          "end_datetime": "2021-03-31T11:50:00+02:00",
+          "zed_serial_number": 24388529,
+          "start_frame_number": 13905,
+          "end_frame_number": 14192,
+          "original_file_id": 0
+        },
+        {
+          "start_datetime": "2021-03-31T11:49:00+02:00",
+          "end_datetime": "2021-03-31T11:50:00+02:00",
+          "zed_serial_number": 29089846,
+          "start_frame_number": 13946,
+          "end_frame_number": 14235,
+          "original_file_id": 1
+        },
+        {
+          "start_datetime": "2021-03-31T11:49:00+02:00",
+          "end_datetime": "2021-03-31T11:50:00+02:00",
+          "zed_serial_number": 25718900,
+          "start_frame_number": 13896,
+          "end_frame_number": 14182,
+          "original_file_id": 2
+        }
+      ]
+    }
+  ],
+  "original_files": [
+    {
+      "id": 0,
+      "file_path": "ds20210331_sn24388529_ts090008.svo"
+    },
+    {
+      "id": 1,
+      "file_path": "ds20210331_sn29089846_ts090008.svo"
+    },
+    {
+      "id": 2,
+      "file_path": "ds20210331_sn25718900_ts090008.svo"
+    }
+  ]
+}
